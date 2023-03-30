@@ -18,10 +18,10 @@
 
     ```
     <td align="center">
-        <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <a href="https://github.com/danielchukwu/">
+            <img src="https://avatars.githubusercontent.com/u/92817999?v=4" width="100px;" alt="chukwu daniel"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Daniel Chukwu</b></sub>
         </a>
     </td>
     ```

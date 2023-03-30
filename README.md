@@ -1208,6 +1208,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Keshav Aneja</b></sub>
                 </a>
            </td>
+           <td align="center">
+                <a href="https://github.com/danielchukwu/">
+                    <img src="https://avatars.githubusercontent.com/u/92817999?v=4" width="100px;" alt="chukwu daniel"/>
+                    <br />
+                    <sub><b>Daniel Chukwu</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
